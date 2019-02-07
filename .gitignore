@@ -1,0 +1,6 @@
+db.sqlite3
+celerybeat-schedule
+main/__pycache__
+image_resize/__pycache__
+venv
+.idea

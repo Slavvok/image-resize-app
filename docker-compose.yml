@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+image_resize_app:
+  build: .
+  depends_on:
+    - redis
+  ports:
+    - 8000:8000
+  expose:
+    - "8000"
+
+redis:
+  image: redis:latest
+  command: redis-server start
+  ports:
+    -6379:6379

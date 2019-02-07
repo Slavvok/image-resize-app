@@ -1,0 +1,13 @@
+[INFO 2019-02-04 22:42:26,350 resize]: 350 263
+[INFO 2019-02-04 22:42:55,855 resize]: 350 263
+[INFO 2019-02-04 22:43:09,705 resize]: 350 263 100 100
+[INFO 2019-02-04 22:43:48,627 resize]: (350, 263) (100, 100)
+[INFO 2019-02-04 22:48:37,733 resize]: old_size: 350 263 new_size: 100 100
+[INFO 2019-02-04 23:10:07,417 resize]: old_size: 350 263 new_size: 100 100
+[INFO 2019-02-04 23:47:22,530 resize]: old_size: 350 263 new_size: 100 100
+[INFO 2019-02-04 23:51:55,108 resize]: old_size: 350 263 new_size: 100 100
+[INFO 2019-02-04 23:54:11,371 resize]: old_size: 350 263 new_size: 100 100
+[INFO 2019-02-04 23:56:13,092 resize]: old_size: 350 263 new_size: 100 100
+[INFO 2019-02-05 00:16:18,447 resize]: old_size: 350 263 new_size: 50 100
+[INFO 2019-02-07 23:12:02,046 resize]: old_size: 350 263 new_size: 100 30
+[INFO 2019-02-07 23:28:40,478 resize]: old_size: 350 263 new_size: 100 30
